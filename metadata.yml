@@ -1,0 +1,12 @@
+name: pyscf-component
+workflow_authors:
+ - Aaron Virshup: Autodesk Research
+contributors:
+ - "@avirshup"
+description: PySCF driver.
+methods: |
+   Encapsulates the Chan group's PySCF quantum chemistry package.
+citations:
+  - https://sunqm.github.io/pyscf/
+keywords:
+  - quantum chemistry
